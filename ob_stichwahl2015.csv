@@ -1,0 +1,272 @@
+stimmbezirk,adresse,stadt,waehler,stimmen,ungueltig,gueltig,spd,spd_rel,cdu,cdu_rel
+1,Bundesallee 265,Wuppertal,1179,288,1,287,199,69.3,88,30.7
+2,Bundesallee 265,Wuppertal,1385,252,11,241,168,69.7,73,30.3
+3,Distelbeck 9,Wuppertal,1366,255,5,250,180,72,70,28
+4,Distelbeck 9,Wuppertal,1184,231,2,229,148,64.6,81,35.4
+5,Distelbeck 9,Wuppertal,1393,231,4,227,168,74,59,26
+6,Bundesallee 30,Wuppertal,1230,195,2,193,135,70,58,30.1
+7,Auer Schulstr. 20,Wuppertal,922,185,2,183,146,79.8,37,20.2
+8,Hufschmiedstr. 5,Wuppertal,1516,383,11,372,312,83.9,60,16.1
+9,Hombüchel 80,Wuppertal,1428,287,5,282,220,78,62,22
+10,Schusterstr. 15,Wuppertal,1230,238,2,236,183,77.5,53,22.5
+11,Kolpingstr. 8,Wuppertal,1565,406,6,400,291,72.8,109,27.2
+12,Marienstr. 64,Wuppertal,1514,579,11,568,492,86.6,76,13.4
+13,Helmholtzstr. 40,Wuppertal,1398,365,5,360,287,79.7,73,20.3
+14,Schleswiger Str. 12,Wuppertal,1414,284,6,278,229,82.4,49,17.6
+15,Friedrichschulstr. 15,Wuppertal,1407,227,5,222,138,62.2,84,37.8
+16,Gathe 6,Wuppertal,1432,228,2,226,188,83.2,38,16.8
+17,Alemannenstr. 42a,Wuppertal,1095,261,8,253,200,79,53,20.9
+18,Opphofer Str. 47,Wuppertal,1428,256,10,246,173,70.3,73,29.7
+19,Am Engelnberg 16,Wuppertal,1416,181,2,179,138,77.1,41,22.9
+20,Am Engelnberg 16,Wuppertal,1187,248,1,247,174,70.5,73,29.6
+21,Friedrich-Storck-Weg 22,Wuppertal,1168,302,4,298,206,69.1,92,30.9
+22,Else-Lasker-Schüler-Str. 30,Wuppertal,1241,222,3,219,134,61.2,85,38.8
+23,Else-Lasker-Schüler-Str. 30,Wuppertal,1219,204,1,203,165,81.3,38,18.7
+24,Blankstr. 5,Wuppertal,1055,235,3,232,136,58.6,96,41.4
+25,Gaußstr. 51,Wuppertal,1272,381,5,376,235,62.5,141,37.5
+26,Rainer-Gruenter Str. 21,Wuppertal,1318,501,1,500,237,47.4,263,52.6
+27,Cronenberger Str. 375,Wuppertal,1297,396,0,396,197,49.8,199,50.2
+28,Im Ostersiepen 25,Wuppertal,1472,268,4,264,180,68.2,84,31.8
+29,Cronenberger Str. 375,Wuppertal,1386,430,4,426,233,54.7,193,45.3
+30,Augustastr. 2,Wuppertal,1168,288,3,285,177,62.1,108,37.9
+31,Kölner Str. 4,Wuppertal,1161,255,2,253,181,71.5,72,28.5
+32,Kölner Str. 4,Wuppertal,1286,281,7,274,173,63.1,101,36.9
+33,Reichsgrafenstr. 38,Wuppertal,1530,299,3,296,196,66.2,100,33.8
+34,Pfalzgrafenstr. 32,Wuppertal,1342,269,2,267,179,67,88,33
+35,Jung-Stilling-Weg 45,Wuppertal,1540,464,3,461,248,53.8,213,46.2
+36,Neviandtstr. 87,Wuppertal,1137,232,3,229,152,66.4,77,33.6
+37,Bayreuther Str. 35,Wuppertal,1364,476,1,475,299,63,176,37
+38,Bayreuther Str. 35,Wuppertal,1381,478,1,477,289,60.6,188,39.4
+39,Viktoriastr. 21,Wuppertal,1210,427,3,424,273,64.4,151,35.6
+40,Bundesallee 30,Wuppertal,1722,304,3,301,220,73.1,81,26.9
+41,Arrenberger Str. 71,Wuppertal,1194,200,3,197,155,78.7,42,21.3
+42,Kyffhäuser Str. 86,Wuppertal,1358,418,2,416,282,67.8,134,32.2
+43,Stockmannsmühle 23,Wuppertal,750,243,1,242,146,60.3,96,39.7
+44,Nützenberger Str. 242,Wuppertal,1760,229,2,227,161,70.9,66,29.1
+45,Donarstr. 2,Wuppertal,1287,332,4,328,212,64.6,116,35.4
+46,Donarstr. 2,Wuppertal,1351,431,5,426,240,56.3,186,43.7
+47,Gellertweg 71,Wuppertal,1289,405,3,402,218,54.2,184,45.8
+48,Krummacher Str. 25,Wuppertal,1392,415,2,413,251,60.8,162,39.2
+49,Deutscher Ring 11,Wuppertal,1420,291,1,290,164,56.5,126,43.5
+50,Sillerstr. 13,Wuppertal,1417,333,4,329,231,70.2,98,29.8
+51,Garterlaie 29,Wuppertal,1329,297,3,294,156,53.1,138,46.9
+52,Unten Vorm Steeg 1,Wuppertal,1138,386,4,382,188,49.2,194,50.8
+53,Am Dönberg 46,Wuppertal,1545,630,6,624,313,50.2,311,49.8
+54,Höhenstr. 25,Wuppertal,1366,524,1,523,267,51,256,49
+55,Höhenstr. 56,Wuppertal,1379,513,0,513,244,47.6,269,52.4
+56,Höhenstr. 56,Wuppertal,905,241,1,240,120,50,120,50
+57,Höhenstr. 56,Wuppertal,973,240,3,237,133,56.1,104,43.9
+58,Gustav-Heinemann-Str. 10a,Wuppertal,1080,296,3,293,172,58.7,121,41.3
+59,Röttgen 110,Wuppertal,1039,260,0,260,152,58.5,108,41.5
+60,Röttgen 110,Wuppertal,685,187,1,186,104,55.9,82,44.1
+61,Röttgen 110,Wuppertal,1290,315,5,310,161,51.9,149,48.1
+62,Röttgen 102a,Wuppertal,895,183,1,182,111,61,71,39
+63,Kohlstr. 150,Wuppertal,1429,411,4,407,250,61.4,157,38.6
+64,Leipziger Str. 1,Wuppertal,1346,464,9,455,292,64.2,163,35.8
+65,Kohlstr. 11,Wuppertal,1181,236,1,235,161,68.5,74,31.5
+66,Am Mirker Bach 1,Wuppertal,918,234,4,230,154,67,76,33
+67,Vogelsangstr. 50,Wuppertal,1188,375,10,365,227,62.2,138,37.8
+68,Hainstr. 192,Wuppertal,1416,589,2,587,344,58.6,243,41.4
+69,Kruppstr. 139,Wuppertal,1387,356,6,350,224,64,126,36
+70,Birkenhöhe 60-62,Wuppertal,1282,459,10,449,245,54.6,204,45.4
+71,Hainstr. 192,Wuppertal,1280,474,1,473,286,60.5,187,39.5
+72,Birkenhöhe 60-62,Wuppertal,1090,344,0,344,206,59.9,138,40.1
+73,In den Birken 56,Wuppertal,1215,411,5,406,199,49,207,51
+74,Kruppstr. 139,Wuppertal,795,317,5,312,179,57.4,133,42.6
+75,Kruppstr. 139,Wuppertal,819,320,3,317,186,58.7,131,41.3
+76,Bayreuther Str. 35,Wuppertal,1018,314,1,313,191,61,122,39
+77,Pahlkestr. 250,Wuppertal,966,398,1,397,194,48.9,203,51.1
+78,Birkenhöhe 60-62,Wuppertal,1239,481,1,480,281,58.5,199,41.5
+79,Birkenhöhe 60-62,Wuppertal,1086,419,5,414,256,61.8,158,38.2
+80,Lessingstr. 18,Wuppertal,1366,414,3,411,293,71.3,118,28.7
+81,Florian-Geyer-Str. 9,Wuppertal,1362,323,10,313,183,58.5,130,41.5
+82,Elfenhang 4,Wuppertal,1338,214,2,212,143,67.5,69,32.5
+83,Edith-Stein-Str. 19,Wuppertal,1422,349,7,342,241,70.5,101,29.5
+84,Edith-Stein-Str. 19,Wuppertal,1087,233,3,230,163,70.9,67,29.1
+85,Blücherstr. 19,Wuppertal,1409,218,4,214,156,72.9,58,27.1
+86,Corneliusstr. 2,Wuppertal,1397,333,5,328,223,68,105,32
+87,Gräfrather Str. 15,Wuppertal,1397,352,4,348,190,54.6,158,45.4
+88,Elfenhang 4,Wuppertal,1134,247,1,246,144,58.5,102,41.5
+89,Höhe 67,Wuppertal,1285,246,5,241,148,61.4,93,38.6
+90,Gebhardtstr. 16,Wuppertal,1361,411,4,407,240,59,167,41
+91,Radenberg 12,Wuppertal,1346,471,4,467,287,61.5,180,38.5
+92,Heuweg 20,Wuppertal,799,364,8,356,245,68.8,111,31.2
+93,Nathrather Str. 156,Wuppertal,1657,418,1,417,290,69.5,127,30.5
+94,Nathrather Str. 156,Wuppertal,1358,299,1,298,207,69.5,91,30.5
+95,Vohwinkeler Feld 39,Wuppertal,1279,344,2,342,206,60.2,136,39.8
+96,Zur Waldkampfbahn 8,Wuppertal,1765,551,7,544,368,67.7,176,32.4
+97,Schöllerweg 11,Wuppertal,352,100,1,99,60,60.6,39,39.4
+98,Ladestr. 13,Wuppertal,733,177,1,176,121,68.8,55,31.2
+99,Herichhauser Str. 21b,Wuppertal,985,324,4,320,140,43.8,180,56.2
+100,Hauptstr. 96,Wuppertal,1487,455,6,449,264,58.8,185,41.2
+101,Eich 3-5,Wuppertal,1578,515,4,511,283,55.4,228,44.6
+102,Rottsieper Höhe 14,Wuppertal,1491,493,5,488,252,51.6,236,48.4
+103,Rottsieper Höhe 14,Wuppertal,1030,269,3,266,161,60.5,105,39.5
+104,Teschensudberger Str. 14,Wuppertal,1107,414,0,414,200,48.3,214,51.7
+105,Eich 3-5,Wuppertal,435,92,1,91,39,42.9,52,57.1
+106,Rathausplatz 4,Wuppertal,965,319,4,315,195,61.9,120,38.1
+107,Herichhauser Str. 21b,Wuppertal,1187,463,1,462,224,48.5,238,51.5
+108,Küllenhahner Str. 145,Wuppertal,1502,699,11,688,258,37.5,430,62.5
+109,Theishahner Str. 35,Wuppertal,927,298,2,296,153,51.7,143,48.3
+110,Cronenfelder Str. 26,Wuppertal,1235,346,2,344,172,50,172,50
+111,Cronenfelder Str. 26,Wuppertal,1312,485,9,476,236,49.6,240,50.4
+112,Mastweg 29,Wuppertal,1227,270,1,269,150,55.8,119,44.2
+113,Cronenfelder Str. 26,Wuppertal,1396,423,5,418,224,53.6,194,46.4
+114,Steinweg 20,Wuppertal,1096,124,1,123,63,51.2,60,48.8
+115,Hohenstein 123,Wuppertal,1424,140,0,140,80,57.1,60,42.9
+116,Zur Schafbrücke 30,Wuppertal,1341,130,1,129,80,62,49,38
+117,Bachstr. 15,Wuppertal,1209,163,2,161,96,59.6,65,40.4
+118,Winklerstr. 5,Wuppertal,1360,202,4,198,126,63.6,72,36.4
+119,Zeughausstr. 26,Wuppertal,1292,329,3,326,179,54.9,147,45.1
+120,Alarichstr. 44,Wuppertal,1246,239,4,235,163,69.4,72,30.6
+121,Sankt-Martins-Weg 1,Wuppertal,1246,217,2,215,151,70.2,64,29.8
+122,Steinweg 20,Wuppertal,1120,198,4,194,126,65,68,35
+123,Carnaper Str. 13,Wuppertal,1331,196,3,193,103,53.4,90,46.6
+124,Thorner Str. 15,Wuppertal,1364,303,2,301,219,72.8,82,27.2
+125,Eichenstr. 59,Wuppertal,1070,238,4,234,133,56.8,101,43.2
+126,Eichenstr. 59,Wuppertal,1256,284,5,279,187,67,92,33
+127,Eichenstr. 59,Wuppertal,1401,271,1,270,189,70,81,30
+128,Unterdörnen 1,Wuppertal,1272,210,3,207,130,62.8,77,37.2
+129,Martin-Luther-Str. 6,Wuppertal,1471,275,6,269,177,65.8,92,34.2
+130,Siegesstr. 134,Wuppertal,1500,324,5,319,229,71.8,90,28.2
+131,Heusnerstr. 40,Wuppertal,1282,364,5,359,233,64.9,126,35.1
+132,Thorner Str. 15,Wuppertal,1442,234,1,233,160,68.7,73,31.3
+133,Rudolfstr. 120,Wuppertal,886,257,6,251,192,76.5,59,23.5
+134,Rudolfstr. 120,Wuppertal,1015,227,0,227,152,67,75,33
+135,Hünefeldstr. 54a,Wuppertal,1231,315,5,310,193,62.3,117,37.7
+136,Wittensteinstr. 80,Wuppertal,1544,285,5,280,200,71.4,80,28.6
+137,Hugostr. 50a,Wuppertal,517,84,1,83,34,41,49,59
+138,Hugostr. 50a,Wuppertal,1552,207,3,204,122,59.8,82,40.2
+139,Alarichstr. 44,Wuppertal,1353,360,2,358,237,66.2,121,33.8
+140,Schützenstr. 34,Wuppertal,1248,236,0,236,166,70.3,70,29.7
+141,Wilkhausstr. 133a,Wuppertal,1298,417,3,414,293,70.8,121,29.2
+142,Wilkhausstr. 133a,Wuppertal,1249,303,2,301,176,58.5,125,41.5
+143,Meckelstr. 106,Wuppertal,1261,474,4,470,299,63.6,171,36.4
+144,Meckelstr. 106,Wuppertal,1372,328,2,326,220,67.5,106,32.5
+145,Marper Schulweg 6,Wuppertal,1196,416,7,409,165,40.3,244,59.7
+146,Marper Schulweg 6,Wuppertal,1762,630,5,625,331,53,294,47
+147,Bundeshöhe 7,Wuppertal,749,325,5,320,158,49.4,162,50.6
+148,Hesselnberg 42,Wuppertal,1069,264,1,263,189,71.9,74,28.1
+149,Hesselnberg 42,Wuppertal,1152,218,5,213,144,67.6,69,32.4
+150,Max-Planck-Str. 10,Wuppertal,1559,134,1,133,84,63.2,49,36.8
+151,Heinrich-Böll-Str. 136,Wuppertal,1436,241,0,241,156,64.7,85,35.3
+152,Max-Planck-Str. 10,Wuppertal,1152,185,3,182,116,63.7,66,36.3
+153,Peter-Hansen-Platz 1,Wuppertal,1232,169,2,167,92,55.1,75,44.9
+154,Wikingerstr. 23,Wuppertal,1390,191,6,185,137,74,48,25.9
+155,Bartholomäusstr. 70,Wuppertal,1299,234,8,226,134,59.3,92,40.7
+156,Matthäusstr. 24,Wuppertal,1430,253,4,249,176,70.7,73,29.3
+157,Bachstr. 15,Wuppertal,1114,156,1,155,97,62.6,58,37.4
+158,Germanenstr. 36,Wuppertal,1110,160,2,158,104,65.8,54,34.2
+159,Germanenstr. 36,Wuppertal,1008,127,1,126,95,75.4,31,24.6
+160,Lentzestr. 14,Wuppertal,1314,228,2,226,155,68.6,71,31.4
+161,Haarhausen 22,Wuppertal,1163,285,4,281,163,58,118,42
+162,Kreuzstr. 85,Wuppertal,1154,189,0,189,127,67.2,62,32.8
+163,Kreuzstr. 85,Wuppertal,1086,174,2,172,107,62.2,65,37.8
+164,Am Diek 65,Wuppertal,1509,290,3,287,170,59.2,117,40.8
+165,Liegnitzer Str. 64,Wuppertal,1359,284,3,281,190,67.6,91,32.4
+166,Wichlinghauser Str. 74-76,Wuppertal,1256,144,1,143,109,76.2,34,23.8
+167,Stollenstr. 2,Wuppertal,1021,211,4,207,142,68.6,65,31.4
+168,Wittener Str. 144,Wuppertal,1230,303,5,298,211,70.8,87,29.2
+169,Wittener Str. 144,Wuppertal,1287,332,4,328,172,52.4,156,47.6
+170,Im Kämpchen 9,Wuppertal,1681,311,1,310,186,60,124,40
+171,Haarhausen 22,Wuppertal,1092,238,0,238,128,53.8,110,46.2
+172,Haselrain 38,Wuppertal,1367,506,3,503,238,47.3,265,52.7
+173,Haselrain 38,Wuppertal,1331,378,5,373,206,55.2,167,44.8
+174,Haselrain 38,Wuppertal,1268,164,1,163,98,60.1,65,39.9
+175,Gewerbeschulstr. 109,Wuppertal,1294,168,0,168,123,73.2,45,26.8
+176,Gewerbeschulstr. 109,Wuppertal,1100,177,3,174,135,77.6,39,22.4
+177,Obere Sehlhofstr. 44,Wuppertal,1201,354,4,350,215,61.4,135,38.6
+178,Obere Sehlhofstr. 44,Wuppertal,1326,371,5,366,231,63.1,135,36.9
+179,Schubertstr. 41,Wuppertal,1463,472,4,468,229,48.9,239,51.1
+180,Berg-Mark-Str. 5,Wuppertal,1001,293,1,292,205,70.2,87,29.8
+181,Gewerbeschulstr. 34,Wuppertal,975,188,3,185,116,62.7,69,37.3
+182,Meyerstr. 32,Wuppertal,1331,181,3,178,111,62.4,67,37.6
+183,Meyerstr. 32,Wuppertal,1251,253,2,251,174,69.3,77,30.7
+184,Heckinghauser Str. 195,Wuppertal,1276,190,2,188,125,66.5,63,33.5
+185,Auf der Bleiche 53,Wuppertal,1613,344,3,341,212,62.2,129,37.8
+186,Gosenburg 62,Wuppertal,1441,356,2,354,228,64.4,126,35.6
+187,Hammesberger Weg 26,Wuppertal,1076,318,3,315,211,67,104,33
+188,Schwelmer Str. 133,Wuppertal,1193,201,2,199,123,61.8,76,38.2
+189,Spitzenstr. 20,Wuppertal,1416,234,3,231,157,68,74,32
+190,Spitzenstr. 20,Wuppertal,917,166,3,163,103,63.2,60,36.8
+191,Heinrich-Böll-Str. 240,Wuppertal,1337,230,4,226,124,54.9,102,45.1
+192,Mercklinghausstr. 11,Wuppertal,839,136,1,135,86,63.7,49,36.3
+193,Mercklinghausstr. 11,Wuppertal,1512,297,5,292,189,64.7,103,35.3
+194,Heinrich-Böll-Str. 240,Wuppertal,1275,222,2,220,108,49.1,112,50.9
+195,Flexstr. 5,Wuppertal,1424,377,7,370,203,54.9,167,45.1
+196,Dieckerhoffstr. 20,Wuppertal,1378,436,7,429,236,55,193,45
+197,Hölkesöhde 22a,Wuppertal,715,171,0,171,82,48,89,52
+198,Dieckerhoffstr. 20,Wuppertal,1525,196,3,193,139,72,54,28
+199,Badische Str. 76,Wuppertal,1215,279,4,275,148,53.8,127,46.2
+200,Zu den Erbhöfen 53,Wuppertal,912,288,4,284,159,56,125,44
+201,Steinhauser Str. 12,Wuppertal,603,202,1,201,124,61.7,77,38.3
+202,Beyenburger Freiheit 49,Wuppertal,427,164,1,163,84,51.5,79,48.5
+203,Siegelberg 40,Wuppertal,1037,399,4,395,196,49.6,199,50.4
+204,Sondern 41,Wuppertal,760,305,1,304,159,52.3,145,47.7
+205,Spieckern 39,Wuppertal,652,211,2,209,99,47.4,110,52.6
+206,Engelbert-Wüster-Weg 29,Wuppertal,1322,434,4,430,234,54.4,196,45.6
+207,Jägerhaus 112,Wuppertal,766,208,2,206,97,47.1,109,52.9
+208,Kratzkopfstr. 23,Wuppertal,1359,457,7,450,255,56.7,195,43.3
+209,Mohrhennsfeld 19,Wuppertal,575,110,0,110,57,51.8,53,48.2
+210,Ferdinand-Lassalle-Str. 28-30,Wuppertal,637,72,3,69,30,43.5,39,56.5
+211,Kratzkopfstr. 23,Wuppertal,1358,349,3,346,195,56.4,151,43.6
+212,Marktstr. 21,Wuppertal,1068,320,4,316,170,53.8,146,46.2
+213,Scheidtstr. 36,Wuppertal,1159,391,6,385,237,61.6,148,38.4
+214,An der Blutfinke 70,Wuppertal,1110,408,8,400,221,55.2,179,44.8
+215,Kurfürstenstr. 13,Wuppertal,1116,312,1,311,188,60.5,123,39.5
+216,Remscheider Str. 50,Wuppertal,1230,427,4,423,239,56.5,184,43.5
+217,Schenkstr. 133,Wuppertal,1267,376,7,369,190,51.5,179,48.5
+218,Schenkstr. 135,Wuppertal,1228,385,5,380,219,57.6,161,42.4
+219,Echoer Str. 46,Wuppertal,1222,428,1,427,209,49,218,51
+220,Echoer Str. 46,Wuppertal,1035,437,2,435,251,57.7,184,42.3
+221,An der Blutfinke 70,Wuppertal,1307,442,2,440,229,52,211,48
+222,Herbringhausen 73,Wuppertal,235,95,0,95,17,17.9,78,82.1
+40101,Briefwahlraum 40101,Wuppertal,0,643,9,634,390,61.5,244,38.5
+40202,Briefwahlraum 40202,Wuppertal,0,481,8,473,319,67.4,154,32.6
+40303,Briefwahlraum 40303,Wuppertal,0,297,1,296,206,69.6,90,30.4
+40404,Briefwahlraum 40404,Wuppertal,0,383,4,379,252,66.5,127,33.5
+40505,Briefwahlraum 40505,Wuppertal,0,531,5,526,271,51.5,255,48.5
+40605,Briefwahlraum 40605,Wuppertal,0,516,2,514,267,52,247,48
+40706,Briefwahlraum 40706,Wuppertal,0,531,5,526,303,57.6,223,42.4
+40811,Briefwahlraum 40811,Wuppertal,0,696,10,686,384,56,302,44
+40912,Briefwahlraum 40912,Wuppertal,0,556,5,551,331,60.1,220,39.9
+41013,Briefwahlraum 41013,Wuppertal,0,638,7,631,342,54.2,289,45.8
+41121,Briefwahlraum 41121,Wuppertal,0,796,8,788,375,47.6,413,52.4
+41221,Briefwahlraum 41221,Wuppertal,0,474,2,472,250,53,222,47
+41322,Briefwahlraum 41322,Wuppertal,0,408,2,406,246,60.6,160,39.4
+41422,Briefwahlraum 41422,Wuppertal,0,592,2,590,324,54.9,266,45.1
+41523,Briefwahlraum 41523,Wuppertal,0,763,6,757,379,50.1,378,49.9
+41623,Briefwahlraum 41623,Wuppertal,0,689,11,678,353,52.1,325,47.9
+41731,Briefwahlraum 41731,Wuppertal,0,605,10,595,370,62.2,225,37.8
+41832,Briefwahlraum 41832,Wuppertal,0,553,3,550,304,55.3,246,44.7
+41933,Briefwahlraum 41933,Wuppertal,0,644,8,636,404,63.5,232,36.5
+42041,Briefwahlraum 42041,Wuppertal,0,501,7,494,258,52.2,236,47.8
+42141,Briefwahlraum 42141,Wuppertal,0,515,7,508,279,54.9,229,45.1
+42242,Briefwahlraum 42242,Wuppertal,0,746,5,741,398,53.7,343,46.3
+42351,Briefwahlraum 42351,Wuppertal,0,605,9,596,328,55,268,45
+42452,Briefwahlraum 42452,Wuppertal,0,414,4,410,266,64.9,144,35.1
+42553,Briefwahlraum 42553,Wuppertal,0,533,7,526,347,66,179,34
+42654,Briefwahlraum 42654,Wuppertal,0,601,7,594,375,63.1,219,36.9
+42755,Briefwahlraum 42755,Wuppertal,0,762,2,760,455,59.9,305,40.1
+42856,Briefwahlraum 42856,Wuppertal,0,560,0,560,238,42.5,322,57.5
+42956,Briefwahlraum 42956,Wuppertal,0,539,2,537,320,59.6,217,40.4
+43061,Briefwahlraum 43061,Wuppertal,0,399,3,396,245,61.9,151,38.1
+43162,Briefwahlraum 43162,Wuppertal,0,397,8,389,243,62.5,146,37.5
+43263,Briefwahlraum 43263,Wuppertal,0,501,3,498,296,59.4,202,40.6
+43364,Briefwahlraum 43364,Wuppertal,0,497,6,491,271,55.2,220,44.8
+43464,Briefwahlraum 43464,Wuppertal,0,441,2,439,270,61.5,169,38.5
+43571,Briefwahlraum 43571,Wuppertal,0,441,6,435,223,51.3,212,48.7
+43671,Briefwahlraum 43671,Wuppertal,0,482,0,482,232,48.1,250,51.9
+43772,Briefwahlraum 43772,Wuppertal,0,499,3,496,288,58.1,208,41.9
+43881,Briefwahlraum 43881,Wuppertal,0,541,11,530,304,57.4,226,42.6
+43982,Briefwahlraum 43982,Wuppertal,0,416,1,415,221,53.2,194,46.8
+44082,Briefwahlraum 44082,Wuppertal,0,542,5,537,265,49.4,272,50.6
+44191,Briefwahlraum 44191,Wuppertal,0,711,6,705,377,53.5,328,46.5
+44292,Briefwahlraum 44292,Wuppertal,0,477,5,472,244,51.7,228,48.3
+44392,Briefwahlraum 44392,Wuppertal,0,433,7,426,216,50.7,210,49.3
+#
+#
+# Werte von
+# https://wahlen.wuppertal.de/ob2015/05124000/html5/Oberbuergermeisterstichwahl_Gemeinde_Stadt_Wuppertal.html
+#
+#
